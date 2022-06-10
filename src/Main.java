@@ -28,6 +28,9 @@ public class Main {
                        average=sum/matrix[i].length;
                        System.out.println("Average of column " + (i+1) + " = " + average);
                        sum=0;
+
+                       //the first project
+
        }
     }
 }
